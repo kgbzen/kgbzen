@@ -3,7 +3,7 @@ I am a computer science student at RWTH working on some private projects as a ho
 You can contact me using my email address **f34rl00 (at) protonmail.com**.
 
 <p align="center">
-  <img alt="ss1" src="https://raw.githubusercontent.com/f34rl00/f34rl00/master/images/Kirschblueten.png">
+  <img alt="ss1" src="https://raw.githubusercontent.com/f34rl00/f34rl00/master/images/Kirschblueten.jpg">
 </p>
 
 <!--
