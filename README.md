@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a computer science student at RWTH working on some private projects as a hobby. 
-Check out my website!
-https://f34rl00.github.io/
+Check out my website!  
+https://f34rl00.github.io/  
 You can contact me using my email address **f34rl00 (at) protonmail.com**.
 
 <!--
