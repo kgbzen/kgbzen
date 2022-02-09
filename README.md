@@ -2,7 +2,7 @@
 I am a computer science student at RWTH working on some private projects as a hobby.  
 You can contact me using my email address **kaangiray26 (at) protonmail.com**.  
 Also, check out my website!  
-https://kgb26.github.io/  
+https://kgbzen.github.io/  
 
 <!--
 **f34rl00/f34rl00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
